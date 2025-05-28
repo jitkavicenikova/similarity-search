@@ -1,4 +1,4 @@
-# Thesis
+# Similarity Search for Laboratory Data
 
 This application enables efficient processing and querying of laboratory measurement data.
 It supports the full data pipeline—from extraction and 
