@@ -1,0 +1,5206 @@
+{
+  "records" : [
+    {
+      "id" : 0,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 1,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 2,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 3,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 4,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 5,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 6,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 7,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 8,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 9,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 10,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 11,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 12,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 13,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 14,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 15,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 16,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 17,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 18,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 19,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 20,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 21,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 22,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 23,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 24,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 25,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 26,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 27,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 28,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 29,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 30,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 31,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 32,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 33,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 34,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 35,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 36,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 37,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 38,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 39,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 40,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 41,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 42,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 43,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 44,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 45,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 46,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 47,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 48,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    },
+    {
+      "id" : 49,
+      "metadata" : "{\"endDate\":\"31/12/2018\",\"source\":\"afsis_spectral https://www.isda-africa.com/posts/2023-03-16-soil-data-release/\",\"startDate\":\"01/01/2008\"}"
+    }
+  ],
+  "results" : [
+    {
+      "recordId" : 0,
+      "markerName" : "longitude",
+      "min" : 35.18756,
+      "max" : 35.18756
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "latitude",
+      "min" : -8.6239,
+      "max" : -8.6239
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "aluminium",
+      "min" : 1109.856,
+      "max" : 1109.856,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "calcium",
+      "min" : 1535.388,
+      "max" : 1535.388,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "carbon_organic",
+      "min" : 30.66,
+      "max" : 30.66,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "carbon_total",
+      "min" : 31.5,
+      "max" : 31.5,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "copper",
+      "min" : 2.259,
+      "max" : 2.259,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "iron",
+      "min" : 92.366,
+      "max" : 92.366,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "magnesium",
+      "min" : 200.601,
+      "max" : 200.601,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "manganese",
+      "min" : 107.257,
+      "max" : 107.257,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "nitrogen_total",
+      "min" : 2.24,
+      "max" : 2.24,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "ph",
+      "min" : 5.942,
+      "max" : 5.942
+    },
+    {
+      "recordId" : 0,
+      "markerName" : "potassium",
+      "min" : 283.103,
+      "max" : 283.103,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "longitude",
+      "min" : 35.18558,
+      "max" : 35.18558
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "latitude",
+      "min" : -8.623,
+      "max" : -8.623
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "aluminium",
+      "min" : 1168.364,
+      "max" : 1168.364,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "calcium",
+      "min" : 751.408,
+      "max" : 751.408,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "carbon_organic",
+      "min" : 21.15,
+      "max" : 21.15,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "carbon_total",
+      "min" : 19.36,
+      "max" : 19.36,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "copper",
+      "min" : 1.822,
+      "max" : 1.822,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "iron",
+      "min" : 115.923,
+      "max" : 115.923,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "magnesium",
+      "min" : 197.771,
+      "max" : 197.771,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "manganese",
+      "min" : 90.005,
+      "max" : 90.005,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "nitrogen_total",
+      "min" : 1.57,
+      "max" : 1.57,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "ph",
+      "min" : 5.722,
+      "max" : 5.722
+    },
+    {
+      "recordId" : 1,
+      "markerName" : "potassium",
+      "min" : 215.459,
+      "max" : 215.459,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "longitude",
+      "min" : 35.18579,
+      "max" : 35.18579
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "latitude",
+      "min" : -8.62221,
+      "max" : -8.62221
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "aluminium",
+      "min" : 1137.113,
+      "max" : 1137.113,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "calcium",
+      "min" : 468.391,
+      "max" : 468.391,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "carbon_organic",
+      "min" : 15.64,
+      "max" : 15.64,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "carbon_total",
+      "min" : 13.95,
+      "max" : 13.95,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "copper",
+      "min" : 1.913,
+      "max" : 1.913,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "iron",
+      "min" : 78.709,
+      "max" : 78.709,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "magnesium",
+      "min" : 188.114,
+      "max" : 188.114,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "manganese",
+      "min" : 120.433,
+      "max" : 120.433,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "nitrogen_total",
+      "min" : 1.02,
+      "max" : 1.02,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "ph",
+      "min" : 5.51,
+      "max" : 5.51
+    },
+    {
+      "recordId" : 2,
+      "markerName" : "potassium",
+      "min" : 398.656,
+      "max" : 398.656,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "longitude",
+      "min" : 35.18266,
+      "max" : 35.18266
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "latitude",
+      "min" : -8.62177,
+      "max" : -8.62177
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "aluminium",
+      "min" : 1117.349,
+      "max" : 1117.349,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "calcium",
+      "min" : 739.698,
+      "max" : 739.698,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "carbon_organic",
+      "min" : 15.63,
+      "max" : 15.63,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "carbon_total",
+      "min" : 12.32,
+      "max" : 12.32,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "copper",
+      "min" : 2.876,
+      "max" : 2.876,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "iron",
+      "min" : 127.527,
+      "max" : 127.527,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "magnesium",
+      "min" : 156.417,
+      "max" : 156.417,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "manganese",
+      "min" : 112.036,
+      "max" : 112.036,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "nitrogen_total",
+      "min" : 1.12,
+      "max" : 1.12,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "ph",
+      "min" : 5.817,
+      "max" : 5.817
+    },
+    {
+      "recordId" : 3,
+      "markerName" : "potassium",
+      "min" : 267.354,
+      "max" : 267.354,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "longitude",
+      "min" : 35.12984,
+      "max" : 35.12984
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "latitude",
+      "min" : -8.62005,
+      "max" : -8.62005
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "aluminium",
+      "min" : 1219.203,
+      "max" : 1219.203,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "calcium",
+      "min" : 240.071,
+      "max" : 240.071,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "carbon_organic",
+      "min" : 18.49,
+      "max" : 18.49,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "carbon_total",
+      "min" : 17.34,
+      "max" : 17.34,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "copper",
+      "min" : 1.825,
+      "max" : 1.825,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "iron",
+      "min" : 77.542,
+      "max" : 77.542,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "magnesium",
+      "min" : 114.809,
+      "max" : 114.809,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "manganese",
+      "min" : 57.906,
+      "max" : 57.906,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "nitrogen_total",
+      "min" : 1.19,
+      "max" : 1.19,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "ph",
+      "min" : 4.98,
+      "max" : 4.98
+    },
+    {
+      "recordId" : 4,
+      "markerName" : "potassium",
+      "min" : 229.682,
+      "max" : 229.682,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "longitude",
+      "min" : 35.13662,
+      "max" : 35.13662
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "latitude",
+      "min" : -8.6184,
+      "max" : -8.6184
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "aluminium",
+      "min" : 1373.702,
+      "max" : 1373.702,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "calcium",
+      "min" : 85.475,
+      "max" : 85.475,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "carbon_organic",
+      "min" : 13.48,
+      "max" : 13.48,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "carbon_total",
+      "min" : 13.53,
+      "max" : 13.53,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "copper",
+      "min" : 1.368,
+      "max" : 1.368,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "iron",
+      "min" : 69.691,
+      "max" : 69.691,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "magnesium",
+      "min" : 111.395,
+      "max" : 111.395,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "manganese",
+      "min" : 29.813,
+      "max" : 29.813,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "nitrogen_total",
+      "min" : 0.91,
+      "max" : 0.91,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "ph",
+      "min" : 5.269,
+      "max" : 5.269
+    },
+    {
+      "recordId" : 5,
+      "markerName" : "potassium",
+      "min" : 97.396,
+      "max" : 97.396,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "longitude",
+      "min" : 35.12916,
+      "max" : 35.12916
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "latitude",
+      "min" : -8.61818,
+      "max" : -8.61818
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "aluminium",
+      "min" : 1059.648,
+      "max" : 1059.648,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "calcium",
+      "min" : 391.811,
+      "max" : 391.811,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "carbon_organic",
+      "min" : 12.15,
+      "max" : 12.15,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "carbon_total",
+      "min" : 11.61,
+      "max" : 11.61,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "copper",
+      "min" : 2.046,
+      "max" : 2.046,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "iron",
+      "min" : 70.702,
+      "max" : 70.702,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "magnesium",
+      "min" : 136.848,
+      "max" : 136.848,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "manganese",
+      "min" : 116.97,
+      "max" : 116.97,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "nitrogen_total",
+      "min" : 0.91,
+      "max" : 0.91,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "ph",
+      "min" : 5.607,
+      "max" : 5.607
+    },
+    {
+      "recordId" : 6,
+      "markerName" : "potassium",
+      "min" : 220.53,
+      "max" : 220.53,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "longitude",
+      "min" : 35.12888,
+      "max" : 35.12888
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "latitude",
+      "min" : -8.61796,
+      "max" : -8.61796
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "aluminium",
+      "min" : 992.572,
+      "max" : 992.572,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "calcium",
+      "min" : 696.77,
+      "max" : 696.77,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "carbon_organic",
+      "min" : 10.82,
+      "max" : 10.82,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "carbon_total",
+      "min" : 10.45,
+      "max" : 10.45,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "copper",
+      "min" : 2.331,
+      "max" : 2.331,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "iron",
+      "min" : 77.289,
+      "max" : 77.289,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "magnesium",
+      "min" : 150.465,
+      "max" : 150.465,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "manganese",
+      "min" : 103.81,
+      "max" : 103.81,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "nitrogen_total",
+      "min" : 1.0,
+      "max" : 1.0,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "ph",
+      "min" : 5.924,
+      "max" : 5.924
+    },
+    {
+      "recordId" : 7,
+      "markerName" : "potassium",
+      "min" : 358.824,
+      "max" : 358.824,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "longitude",
+      "min" : 35.18277,
+      "max" : 35.18277
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "latitude",
+      "min" : -8.61593,
+      "max" : -8.61593
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "aluminium",
+      "min" : 1262.413,
+      "max" : 1262.413,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "calcium",
+      "min" : 282.791,
+      "max" : 282.791,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "carbon_organic",
+      "min" : 14.33,
+      "max" : 14.33,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "carbon_total",
+      "min" : 15.53,
+      "max" : 15.53,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "copper",
+      "min" : 1.016,
+      "max" : 1.016,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "iron",
+      "min" : 61.928,
+      "max" : 61.928,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "magnesium",
+      "min" : 92.838,
+      "max" : 92.838,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "manganese",
+      "min" : 29.316,
+      "max" : 29.316,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "nitrogen_total",
+      "min" : 0.83,
+      "max" : 0.83,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "ph",
+      "min" : 5.226,
+      "max" : 5.226
+    },
+    {
+      "recordId" : 8,
+      "markerName" : "potassium",
+      "min" : 105.643,
+      "max" : 105.643,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "longitude",
+      "min" : 35.13098,
+      "max" : 35.13098
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "latitude",
+      "min" : -8.61547,
+      "max" : -8.61547
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "aluminium",
+      "min" : 1120.07,
+      "max" : 1120.07,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "calcium",
+      "min" : 684.126,
+      "max" : 684.126,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "carbon_organic",
+      "min" : 12.56,
+      "max" : 12.56,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "carbon_total",
+      "min" : 11.24,
+      "max" : 11.24,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "copper",
+      "min" : 2.461,
+      "max" : 2.461,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "iron",
+      "min" : 113.017,
+      "max" : 113.017,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "magnesium",
+      "min" : 176.238,
+      "max" : 176.238,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "manganese",
+      "min" : 130.079,
+      "max" : 130.079,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "nitrogen_total",
+      "min" : 1.04,
+      "max" : 1.04,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "ph",
+      "min" : 5.726,
+      "max" : 5.726
+    },
+    {
+      "recordId" : 9,
+      "markerName" : "potassium",
+      "min" : 239.205,
+      "max" : 239.205,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "longitude",
+      "min" : 35.60298,
+      "max" : 35.60298
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "latitude",
+      "min" : -8.61498,
+      "max" : -8.61498
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "aluminium",
+      "min" : 1283.615,
+      "max" : 1283.615,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "calcium",
+      "min" : 684.965,
+      "max" : 684.965,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "carbon_organic",
+      "min" : 38.52,
+      "max" : 38.52,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "carbon_total",
+      "min" : 36.67,
+      "max" : 36.67,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "copper",
+      "min" : 2.025,
+      "max" : 2.025,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "iron",
+      "min" : 112.496,
+      "max" : 112.496,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "magnesium",
+      "min" : 174.428,
+      "max" : 174.428,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "manganese",
+      "min" : 59.28,
+      "max" : 59.28,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "nitrogen_total",
+      "min" : 2.37,
+      "max" : 2.37,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "ph",
+      "min" : 5.51,
+      "max" : 5.51
+    },
+    {
+      "recordId" : 10,
+      "markerName" : "potassium",
+      "min" : 93.114,
+      "max" : 93.114,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "longitude",
+      "min" : 35.60063,
+      "max" : 35.60063
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "latitude",
+      "min" : -8.61348,
+      "max" : -8.61348
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "aluminium",
+      "min" : 1760.047,
+      "max" : 1760.047,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "calcium",
+      "min" : 296.051,
+      "max" : 296.051,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "carbon_organic",
+      "min" : 37.18,
+      "max" : 37.18,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "carbon_total",
+      "min" : 41.11,
+      "max" : 41.11,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "copper",
+      "min" : 1.221,
+      "max" : 1.221,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "iron",
+      "min" : 120.787,
+      "max" : 120.787,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "magnesium",
+      "min" : 95.931,
+      "max" : 95.931,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "manganese",
+      "min" : 16.424,
+      "max" : 16.424,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "nitrogen_total",
+      "min" : 2.73,
+      "max" : 2.73,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "ph",
+      "min" : 4.714,
+      "max" : 4.714
+    },
+    {
+      "recordId" : 11,
+      "markerName" : "potassium",
+      "min" : 107.699,
+      "max" : 107.699,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "longitude",
+      "min" : 35.59959,
+      "max" : 35.59959
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "latitude",
+      "min" : -8.61346,
+      "max" : -8.61346
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "aluminium",
+      "min" : 1369.851,
+      "max" : 1369.851,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "calcium",
+      "min" : 734.896,
+      "max" : 734.896,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "carbon_organic",
+      "min" : 39.13,
+      "max" : 39.13,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "carbon_total",
+      "min" : 41.91,
+      "max" : 41.91,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "copper",
+      "min" : 1.519,
+      "max" : 1.519,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "iron",
+      "min" : 112.809,
+      "max" : 112.809,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "magnesium",
+      "min" : 99.946,
+      "max" : 99.946,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "manganese",
+      "min" : 63.164,
+      "max" : 63.164,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "nitrogen_total",
+      "min" : 2.9,
+      "max" : 2.9,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "ph",
+      "min" : 5.179,
+      "max" : 5.179
+    },
+    {
+      "recordId" : 12,
+      "markerName" : "potassium",
+      "min" : 71.437,
+      "max" : 71.437,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "longitude",
+      "min" : 35.60433,
+      "max" : 35.60433
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "latitude",
+      "min" : -8.61271,
+      "max" : -8.61271
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "aluminium",
+      "min" : 1594.208,
+      "max" : 1594.208,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "calcium",
+      "min" : 541.044,
+      "max" : 541.044,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "carbon_organic",
+      "min" : 34.68,
+      "max" : 34.68,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "carbon_total",
+      "min" : 36.63,
+      "max" : 36.63,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "copper",
+      "min" : 1.298,
+      "max" : 1.298,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "iron",
+      "min" : 98.481,
+      "max" : 98.481,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "magnesium",
+      "min" : 87.765,
+      "max" : 87.765,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "manganese",
+      "min" : 7.026,
+      "max" : 7.026,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "nitrogen_total",
+      "min" : 2.26,
+      "max" : 2.26,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "ph",
+      "min" : 4.995,
+      "max" : 4.995
+    },
+    {
+      "recordId" : 13,
+      "markerName" : "potassium",
+      "min" : 73.836,
+      "max" : 73.836,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "longitude",
+      "min" : 35.59236,
+      "max" : 35.59236
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "latitude",
+      "min" : -8.61164,
+      "max" : -8.61164
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "aluminium",
+      "min" : 1284.238,
+      "max" : 1284.238,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "calcium",
+      "min" : 715.789,
+      "max" : 715.789,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "carbon_organic",
+      "min" : 26.91,
+      "max" : 26.91,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "carbon_total",
+      "min" : 27.09,
+      "max" : 27.09,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "copper",
+      "min" : 0.997,
+      "max" : 0.997,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "iron",
+      "min" : 80.339,
+      "max" : 80.339,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "magnesium",
+      "min" : 167.684,
+      "max" : 167.684,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "manganese",
+      "min" : 80.229,
+      "max" : 80.229,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "nitrogen_total",
+      "min" : 1.85,
+      "max" : 1.85,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "ph",
+      "min" : 5.52,
+      "max" : 5.52
+    },
+    {
+      "recordId" : 14,
+      "markerName" : "potassium",
+      "min" : 74.349,
+      "max" : 74.349,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "longitude",
+      "min" : 35.60665,
+      "max" : 35.60665
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "latitude",
+      "min" : -8.60967,
+      "max" : -8.60967
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "aluminium",
+      "min" : 1552.104,
+      "max" : 1552.104,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "calcium",
+      "min" : 330.36,
+      "max" : 330.36,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "carbon_organic",
+      "min" : 18.38,
+      "max" : 18.38,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "carbon_total",
+      "min" : 16.19,
+      "max" : 16.19,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "copper",
+      "min" : 1.353,
+      "max" : 1.353,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "iron",
+      "min" : 93.375,
+      "max" : 93.375,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "magnesium",
+      "min" : 87.185,
+      "max" : 87.185,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "manganese",
+      "min" : 42.887,
+      "max" : 42.887,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "nitrogen_total",
+      "min" : 1.2,
+      "max" : 1.2,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "ph",
+      "min" : 5.058,
+      "max" : 5.058
+    },
+    {
+      "recordId" : 15,
+      "markerName" : "potassium",
+      "min" : 66.007,
+      "max" : 66.007,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "longitude",
+      "min" : 35.62835,
+      "max" : 35.62835
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "latitude",
+      "min" : -8.60393,
+      "max" : -8.60393
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "aluminium",
+      "min" : 2287.253,
+      "max" : 2287.253,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "calcium",
+      "min" : 688.433,
+      "max" : 688.433,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "carbon_organic",
+      "min" : 58.15,
+      "max" : 58.15,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "carbon_total",
+      "min" : 64.54,
+      "max" : 64.54,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "copper",
+      "min" : 1.411,
+      "max" : 1.411,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "iron",
+      "min" : 256.186,
+      "max" : 256.186,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "magnesium",
+      "min" : 104.443,
+      "max" : 104.443,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "manganese",
+      "min" : 43.887,
+      "max" : 43.887,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "nitrogen_total",
+      "min" : 5.29,
+      "max" : 5.29,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "ph",
+      "min" : 3.778,
+      "max" : 3.778
+    },
+    {
+      "recordId" : 16,
+      "markerName" : "potassium",
+      "min" : 112.825,
+      "max" : 112.825,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "longitude",
+      "min" : 35.14313,
+      "max" : 35.14313
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "latitude",
+      "min" : -8.60287,
+      "max" : -8.60287
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "aluminium",
+      "min" : 790.645,
+      "max" : 790.645,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "calcium",
+      "min" : 546.539,
+      "max" : 546.539,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "carbon_organic",
+      "min" : 13.95,
+      "max" : 13.95,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "carbon_total",
+      "min" : 14.68,
+      "max" : 14.68,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "copper",
+      "min" : 2.188,
+      "max" : 2.188,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "iron",
+      "min" : 115.375,
+      "max" : 115.375,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "magnesium",
+      "min" : 212.296,
+      "max" : 212.296,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "manganese",
+      "min" : 184.058,
+      "max" : 184.058,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "nitrogen_total",
+      "min" : 1.1,
+      "max" : 1.1,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "ph",
+      "min" : 6.255,
+      "max" : 6.255
+    },
+    {
+      "recordId" : 17,
+      "markerName" : "potassium",
+      "min" : 340.017,
+      "max" : 340.017,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "longitude",
+      "min" : 35.14319,
+      "max" : 35.14319
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "latitude",
+      "min" : -8.60284,
+      "max" : -8.60284
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "aluminium",
+      "min" : 724.633,
+      "max" : 724.633,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "calcium",
+      "min" : 1009.062,
+      "max" : 1009.062,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "carbon_organic",
+      "min" : 15.7,
+      "max" : 15.7,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "carbon_total",
+      "min" : 13.77,
+      "max" : 13.77,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "copper",
+      "min" : 1.665,
+      "max" : 1.665,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "iron",
+      "min" : 92.23,
+      "max" : 92.23,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "magnesium",
+      "min" : 254.149,
+      "max" : 254.149,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "manganese",
+      "min" : 168.161,
+      "max" : 168.161,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "nitrogen_total",
+      "min" : 1.21,
+      "max" : 1.21,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "ph",
+      "min" : 6.368,
+      "max" : 6.368
+    },
+    {
+      "recordId" : 18,
+      "markerName" : "potassium",
+      "min" : 309.42,
+      "max" : 309.42,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "longitude",
+      "min" : 35.19926,
+      "max" : 35.19926
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "latitude",
+      "min" : -8.60172,
+      "max" : -8.60172
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "aluminium",
+      "min" : 967.408,
+      "max" : 967.408,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "calcium",
+      "min" : 767.915,
+      "max" : 767.915,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "carbon_organic",
+      "min" : 14.26,
+      "max" : 14.26,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "carbon_total",
+      "min" : 11.03,
+      "max" : 11.03,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "copper",
+      "min" : 2.926,
+      "max" : 2.926,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "iron",
+      "min" : 89.896,
+      "max" : 89.896,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "magnesium",
+      "min" : 163.375,
+      "max" : 163.375,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "manganese",
+      "min" : 128.197,
+      "max" : 128.197,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "nitrogen_total",
+      "min" : 0.98,
+      "max" : 0.98,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "ph",
+      "min" : 5.88,
+      "max" : 5.88
+    },
+    {
+      "recordId" : 19,
+      "markerName" : "potassium",
+      "min" : 223.452,
+      "max" : 223.452,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "longitude",
+      "min" : 35.14148,
+      "max" : 35.14148
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "latitude",
+      "min" : -8.60114,
+      "max" : -8.60114
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "aluminium",
+      "min" : 838.645,
+      "max" : 838.645,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "calcium",
+      "min" : 670.385,
+      "max" : 670.385,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "carbon_organic",
+      "min" : 8.27,
+      "max" : 8.27,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "carbon_total",
+      "min" : 8.42,
+      "max" : 8.42,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "copper",
+      "min" : 1.1,
+      "max" : 1.1,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "iron",
+      "min" : 109.633,
+      "max" : 109.633,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "magnesium",
+      "min" : 137.378,
+      "max" : 137.378,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "manganese",
+      "min" : 165.873,
+      "max" : 165.873,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "nitrogen_total",
+      "min" : 0.68,
+      "max" : 0.68,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "ph",
+      "min" : 6.157,
+      "max" : 6.157
+    },
+    {
+      "recordId" : 20,
+      "markerName" : "potassium",
+      "min" : 234.771,
+      "max" : 234.771,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "longitude",
+      "min" : 35.14184,
+      "max" : 35.14184
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "latitude",
+      "min" : -8.60032,
+      "max" : -8.60032
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "aluminium",
+      "min" : 1017.454,
+      "max" : 1017.454,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "calcium",
+      "min" : 607.194,
+      "max" : 607.194,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "carbon_organic",
+      "min" : 11.93,
+      "max" : 11.93,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "carbon_total",
+      "min" : 9.72,
+      "max" : 9.72,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "copper",
+      "min" : 0.885,
+      "max" : 0.885,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "iron",
+      "min" : 145.449,
+      "max" : 145.449,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "magnesium",
+      "min" : 162.62,
+      "max" : 162.62,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "manganese",
+      "min" : 76.075,
+      "max" : 76.075,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "nitrogen_total",
+      "min" : 0.73,
+      "max" : 0.73,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "ph",
+      "min" : 5.522,
+      "max" : 5.522
+    },
+    {
+      "recordId" : 21,
+      "markerName" : "potassium",
+      "min" : 268.087,
+      "max" : 268.087,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "longitude",
+      "min" : 35.14509,
+      "max" : 35.14509
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "latitude",
+      "min" : -8.60031,
+      "max" : -8.60031
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "aluminium",
+      "min" : 803.748,
+      "max" : 803.748,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "calcium",
+      "min" : 1020.415,
+      "max" : 1020.415,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "carbon_organic",
+      "min" : 15.36,
+      "max" : 15.36,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "carbon_total",
+      "min" : 15.04,
+      "max" : 15.04,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "copper",
+      "min" : 2.353,
+      "max" : 2.353,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "iron",
+      "min" : 102.188,
+      "max" : 102.188,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "magnesium",
+      "min" : 216.68,
+      "max" : 216.68,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "manganese",
+      "min" : 165.596,
+      "max" : 165.596,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "nitrogen_total",
+      "min" : 1.26,
+      "max" : 1.26,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "ph",
+      "min" : 5.575,
+      "max" : 5.575
+    },
+    {
+      "recordId" : 22,
+      "markerName" : "potassium",
+      "min" : 494.795,
+      "max" : 494.795,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "longitude",
+      "min" : 35.56841,
+      "max" : 35.56841
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "latitude",
+      "min" : -8.59968,
+      "max" : -8.59968
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "aluminium",
+      "min" : 1302.456,
+      "max" : 1302.456,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "calcium",
+      "min" : 149.863,
+      "max" : 149.863,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "carbon_organic",
+      "min" : 15.36,
+      "max" : 15.36,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "carbon_total",
+      "min" : 14.05,
+      "max" : 14.05,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "copper",
+      "min" : 1.61,
+      "max" : 1.61,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "iron",
+      "min" : 71.065,
+      "max" : 71.065,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "magnesium",
+      "min" : 77.932,
+      "max" : 77.932,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "manganese",
+      "min" : 37.891,
+      "max" : 37.891,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "nitrogen_total",
+      "min" : 1.05,
+      "max" : 1.05,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "ph",
+      "min" : 5.176,
+      "max" : 5.176
+    },
+    {
+      "recordId" : 23,
+      "markerName" : "potassium",
+      "min" : 91.736,
+      "max" : 91.736,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "longitude",
+      "min" : 35.65183,
+      "max" : 35.65183
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "latitude",
+      "min" : -8.59912,
+      "max" : -8.59912
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "aluminium",
+      "min" : 1586.574,
+      "max" : 1586.574,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "calcium",
+      "min" : 450.459,
+      "max" : 450.459,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "carbon_organic",
+      "min" : 42.65,
+      "max" : 42.65,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "carbon_total",
+      "min" : 44.42,
+      "max" : 44.42,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "copper",
+      "min" : 2.488,
+      "max" : 2.488,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "iron",
+      "min" : 217.411,
+      "max" : 217.411,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "magnesium",
+      "min" : 183.452,
+      "max" : 183.452,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "manganese",
+      "min" : 177.052,
+      "max" : 177.052,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "nitrogen_total",
+      "min" : 3.35,
+      "max" : 3.35,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "ph",
+      "min" : 4.695,
+      "max" : 4.695
+    },
+    {
+      "recordId" : 24,
+      "markerName" : "potassium",
+      "min" : 246.374,
+      "max" : 246.374,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "longitude",
+      "min" : 35.56839,
+      "max" : 35.56839
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "latitude",
+      "min" : -8.59885,
+      "max" : -8.59885
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "aluminium",
+      "min" : 1427.535,
+      "max" : 1427.535,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "calcium",
+      "min" : 824.888,
+      "max" : 824.888,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "carbon_organic",
+      "min" : 32.82,
+      "max" : 32.82,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "carbon_total",
+      "min" : 32.73,
+      "max" : 32.73,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "copper",
+      "min" : 1.243,
+      "max" : 1.243,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "iron",
+      "min" : 73.234,
+      "max" : 73.234,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "magnesium",
+      "min" : 192.984,
+      "max" : 192.984,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "manganese",
+      "min" : 75.568,
+      "max" : 75.568,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "nitrogen_total",
+      "min" : 2.27,
+      "max" : 2.27,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "ph",
+      "min" : 5.586,
+      "max" : 5.586
+    },
+    {
+      "recordId" : 25,
+      "markerName" : "potassium",
+      "min" : 101.902,
+      "max" : 101.902,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "longitude",
+      "min" : 35.19737,
+      "max" : 35.19737
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "latitude",
+      "min" : -8.59876,
+      "max" : -8.59876
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "aluminium",
+      "min" : 1496.671,
+      "max" : 1496.671,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "calcium",
+      "min" : 794.242,
+      "max" : 794.242,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "carbon_organic",
+      "min" : 35.63,
+      "max" : 35.63,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "carbon_total",
+      "min" : 37.85,
+      "max" : 37.85,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "copper",
+      "min" : 0.973,
+      "max" : 0.973,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "iron",
+      "min" : 153.333,
+      "max" : 153.333,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "magnesium",
+      "min" : 213.349,
+      "max" : 213.349,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "manganese",
+      "min" : 35.628,
+      "max" : 35.628,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "nitrogen_total",
+      "min" : 3.08,
+      "max" : 3.08,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "ph",
+      "min" : 5.25,
+      "max" : 5.25
+    },
+    {
+      "recordId" : 26,
+      "markerName" : "potassium",
+      "min" : 203.205,
+      "max" : 203.205,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "longitude",
+      "min" : 35.64851,
+      "max" : 35.64851
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "latitude",
+      "min" : -8.59863,
+      "max" : -8.59863
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "aluminium",
+      "min" : 566.883,
+      "max" : 566.883,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "calcium",
+      "min" : 497.25,
+      "max" : 497.25,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "carbon_organic",
+      "min" : 7.51,
+      "max" : 7.51,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "carbon_total",
+      "min" : 9.69,
+      "max" : 9.69,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "copper",
+      "min" : 0.401,
+      "max" : 0.401,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "iron",
+      "min" : 109.985,
+      "max" : 109.985,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "magnesium",
+      "min" : 169.984,
+      "max" : 169.984,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "manganese",
+      "min" : 78.642,
+      "max" : 78.642,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "nitrogen_total",
+      "min" : 0.47,
+      "max" : 0.47,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "ph",
+      "min" : 6.536,
+      "max" : 6.536
+    },
+    {
+      "recordId" : 27,
+      "markerName" : "potassium",
+      "min" : 106.13,
+      "max" : 106.13,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "longitude",
+      "min" : 35.1967,
+      "max" : 35.1967
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "latitude",
+      "min" : -8.59858,
+      "max" : -8.59858
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "aluminium",
+      "min" : 1022.67,
+      "max" : 1022.67,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "calcium",
+      "min" : 1177.058,
+      "max" : 1177.058,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "carbon_organic",
+      "min" : 25.6,
+      "max" : 25.6,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "carbon_total",
+      "min" : 25.33,
+      "max" : 25.33,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "copper",
+      "min" : 1.252,
+      "max" : 1.252,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "iron",
+      "min" : 66.901,
+      "max" : 66.901,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "magnesium",
+      "min" : 164.17,
+      "max" : 164.17,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "manganese",
+      "min" : 85.609,
+      "max" : 85.609,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "nitrogen_total",
+      "min" : 1.76,
+      "max" : 1.76,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "ph",
+      "min" : 5.932,
+      "max" : 5.932
+    },
+    {
+      "recordId" : 28,
+      "markerName" : "potassium",
+      "min" : 161.794,
+      "max" : 161.794,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "longitude",
+      "min" : 35.19859,
+      "max" : 35.19859
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "latitude",
+      "min" : -8.59837,
+      "max" : -8.59837
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "aluminium",
+      "min" : 1318.861,
+      "max" : 1318.861,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "calcium",
+      "min" : 781.681,
+      "max" : 781.681,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "carbon_organic",
+      "min" : 29.94,
+      "max" : 29.94,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "carbon_total",
+      "min" : 27.52,
+      "max" : 27.52,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "copper",
+      "min" : 1.712,
+      "max" : 1.712,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "iron",
+      "min" : 102.023,
+      "max" : 102.023,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "magnesium",
+      "min" : 195.583,
+      "max" : 195.583,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "manganese",
+      "min" : 50.395,
+      "max" : 50.395,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "nitrogen_total",
+      "min" : 2.18,
+      "max" : 2.18,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "ph",
+      "min" : 5.756,
+      "max" : 5.756
+    },
+    {
+      "recordId" : 29,
+      "markerName" : "potassium",
+      "min" : 182.152,
+      "max" : 182.152,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "longitude",
+      "min" : 35.64833,
+      "max" : 35.64833
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "latitude",
+      "min" : -8.59784,
+      "max" : -8.59784
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "aluminium",
+      "min" : 1432.127,
+      "max" : 1432.127,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "calcium",
+      "min" : 1013.197,
+      "max" : 1013.197,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "carbon_organic",
+      "min" : 39.49,
+      "max" : 39.49,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "carbon_total",
+      "min" : 42.56,
+      "max" : 42.56,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "copper",
+      "min" : 1.939,
+      "max" : 1.939,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "iron",
+      "min" : 116.471,
+      "max" : 116.471,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "magnesium",
+      "min" : 209.636,
+      "max" : 209.636,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "manganese",
+      "min" : 54.757,
+      "max" : 54.757,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "nitrogen_total",
+      "min" : 3.08,
+      "max" : 3.08,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "ph",
+      "min" : 5.181,
+      "max" : 5.181
+    },
+    {
+      "recordId" : 30,
+      "markerName" : "potassium",
+      "min" : 141.13,
+      "max" : 141.13,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "longitude",
+      "min" : 35.13931,
+      "max" : 35.13931
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "latitude",
+      "min" : -8.59702,
+      "max" : -8.59702
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "aluminium",
+      "min" : 1412.587,
+      "max" : 1412.587,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "calcium",
+      "min" : 483.241,
+      "max" : 483.241,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "carbon_organic",
+      "min" : 12.85,
+      "max" : 12.85,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "carbon_total",
+      "min" : 11.86,
+      "max" : 11.86,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "copper",
+      "min" : 0.771,
+      "max" : 0.771,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "iron",
+      "min" : 136.42,
+      "max" : 136.42,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "magnesium",
+      "min" : 155.045,
+      "max" : 155.045,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "manganese",
+      "min" : 67.971,
+      "max" : 67.971,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "nitrogen_total",
+      "min" : 0.86,
+      "max" : 0.86,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "ph",
+      "min" : 5.052,
+      "max" : 5.052
+    },
+    {
+      "recordId" : 31,
+      "markerName" : "potassium",
+      "min" : 192.477,
+      "max" : 192.477,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "longitude",
+      "min" : 35.13424,
+      "max" : 35.13424
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "latitude",
+      "min" : -8.59625,
+      "max" : -8.59625
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "aluminium",
+      "min" : 977.715,
+      "max" : 977.715,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "calcium",
+      "min" : 613.344,
+      "max" : 613.344,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "carbon_organic",
+      "min" : 10.69,
+      "max" : 10.69,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "carbon_total",
+      "min" : 13.09,
+      "max" : 13.09,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "copper",
+      "min" : 1.273,
+      "max" : 1.273,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "iron",
+      "min" : 144.959,
+      "max" : 144.959,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "magnesium",
+      "min" : 140.07,
+      "max" : 140.07,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "manganese",
+      "min" : 152.203,
+      "max" : 152.203,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "nitrogen_total",
+      "min" : 0.89,
+      "max" : 0.89,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "ph",
+      "min" : 5.848,
+      "max" : 5.848
+    },
+    {
+      "recordId" : 32,
+      "markerName" : "potassium",
+      "min" : 181.672,
+      "max" : 181.672,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "longitude",
+      "min" : 35.13439,
+      "max" : 35.13439
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "latitude",
+      "min" : -8.59604,
+      "max" : -8.59604
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "aluminium",
+      "min" : 1123.844,
+      "max" : 1123.844,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "calcium",
+      "min" : 333.113,
+      "max" : 333.113,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "carbon_organic",
+      "min" : 15.32,
+      "max" : 15.32,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "carbon_total",
+      "min" : 14.17,
+      "max" : 14.17,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "copper",
+      "min" : 0.721,
+      "max" : 0.721,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "iron",
+      "min" : 100.328,
+      "max" : 100.328,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "magnesium",
+      "min" : 137.177,
+      "max" : 137.177,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "manganese",
+      "min" : 105.844,
+      "max" : 105.844,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "nitrogen_total",
+      "min" : 0.95,
+      "max" : 0.95,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "ph",
+      "min" : 5.58,
+      "max" : 5.58
+    },
+    {
+      "recordId" : 33,
+      "markerName" : "potassium",
+      "min" : 293.169,
+      "max" : 293.169,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "longitude",
+      "min" : 35.13986,
+      "max" : 35.13986
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "latitude",
+      "min" : -8.59459,
+      "max" : -8.59459
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "aluminium",
+      "min" : 1175.453,
+      "max" : 1175.453,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "calcium",
+      "min" : 386.735,
+      "max" : 386.735,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "carbon_organic",
+      "min" : 13.78,
+      "max" : 13.78,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "carbon_total",
+      "min" : 17.88,
+      "max" : 17.88,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "copper",
+      "min" : 2.026,
+      "max" : 2.026,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "iron",
+      "min" : 195.593,
+      "max" : 195.593,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "magnesium",
+      "min" : 213.408,
+      "max" : 213.408,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "manganese",
+      "min" : 66.702,
+      "max" : 66.702,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "nitrogen_total",
+      "min" : 1.05,
+      "max" : 1.05,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "ph",
+      "min" : 4.649,
+      "max" : 4.649
+    },
+    {
+      "recordId" : 34,
+      "markerName" : "potassium",
+      "min" : 293.881,
+      "max" : 293.881,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "longitude",
+      "min" : 35.12854,
+      "max" : 35.12854
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "latitude",
+      "min" : -8.59388,
+      "max" : -8.59388
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "aluminium",
+      "min" : 1177.272,
+      "max" : 1177.272,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "calcium",
+      "min" : 128.427,
+      "max" : 128.427,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "carbon_organic",
+      "min" : 11.39,
+      "max" : 11.39,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "carbon_total",
+      "min" : 10.19,
+      "max" : 10.19,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "copper",
+      "min" : 2.624,
+      "max" : 2.624,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "iron",
+      "min" : 58.163,
+      "max" : 58.163,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "magnesium",
+      "min" : 108.579,
+      "max" : 108.579,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "manganese",
+      "min" : 48.186,
+      "max" : 48.186,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "nitrogen_total",
+      "min" : 0.71,
+      "max" : 0.71,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "ph",
+      "min" : 5.272,
+      "max" : 5.272
+    },
+    {
+      "recordId" : 35,
+      "markerName" : "potassium",
+      "min" : 186.908,
+      "max" : 186.908,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "longitude",
+      "min" : 35.13228,
+      "max" : 35.13228
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "latitude",
+      "min" : -8.59293,
+      "max" : -8.59293
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "aluminium",
+      "min" : 1058.434,
+      "max" : 1058.434,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "calcium",
+      "min" : 306.215,
+      "max" : 306.215,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "carbon_organic",
+      "min" : 11.43,
+      "max" : 11.43,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "carbon_total",
+      "min" : 9.63,
+      "max" : 9.63,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "copper",
+      "min" : 0.911,
+      "max" : 0.911,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "iron",
+      "min" : 96.998,
+      "max" : 96.998,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "magnesium",
+      "min" : 153.898,
+      "max" : 153.898,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "manganese",
+      "min" : 119.318,
+      "max" : 119.318,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "nitrogen_total",
+      "min" : 0.68,
+      "max" : 0.68,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "ph",
+      "min" : 5.456,
+      "max" : 5.456
+    },
+    {
+      "recordId" : 36,
+      "markerName" : "potassium",
+      "min" : 210.569,
+      "max" : 210.569,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "longitude",
+      "min" : 35.44789,
+      "max" : 35.44789
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "latitude",
+      "min" : -8.59144,
+      "max" : -8.59144
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "aluminium",
+      "min" : 1735.774,
+      "max" : 1735.774,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "calcium",
+      "min" : 430.113,
+      "max" : 430.113,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "carbon_organic",
+      "min" : 41.82,
+      "max" : 41.82,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "carbon_total",
+      "min" : 41.18,
+      "max" : 41.18,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "copper",
+      "min" : 0.457,
+      "max" : 0.457,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "iron",
+      "min" : 86.853,
+      "max" : 86.853,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "magnesium",
+      "min" : 64.344,
+      "max" : 64.344,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "manganese",
+      "min" : 35.088,
+      "max" : 35.088,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "nitrogen_total",
+      "min" : 2.45,
+      "max" : 2.45,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "ph",
+      "min" : 5.083,
+      "max" : 5.083
+    },
+    {
+      "recordId" : 37,
+      "markerName" : "potassium",
+      "min" : 95.301,
+      "max" : 95.301,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "longitude",
+      "min" : 35.14203,
+      "max" : 35.14203
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "latitude",
+      "min" : -8.5913,
+      "max" : -8.5913
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "aluminium",
+      "min" : 1070.553,
+      "max" : 1070.553,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "calcium",
+      "min" : 695.86,
+      "max" : 695.86,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "carbon_organic",
+      "min" : 10.38,
+      "max" : 10.38,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "carbon_total",
+      "min" : 7.65,
+      "max" : 7.65,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "copper",
+      "min" : 1.822,
+      "max" : 1.822,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "iron",
+      "min" : 105.863,
+      "max" : 105.863,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "magnesium",
+      "min" : 123.142,
+      "max" : 123.142,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "manganese",
+      "min" : 108.957,
+      "max" : 108.957,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "nitrogen_total",
+      "min" : 0.77,
+      "max" : 0.77,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "ph",
+      "min" : 6.078,
+      "max" : 6.078
+    },
+    {
+      "recordId" : 38,
+      "markerName" : "potassium",
+      "min" : 258.131,
+      "max" : 258.131,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "longitude",
+      "min" : 35.13205,
+      "max" : 35.13205
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "latitude",
+      "min" : -8.59012,
+      "max" : -8.59012
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "aluminium",
+      "min" : 949.284,
+      "max" : 949.284,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "calcium",
+      "min" : 464.704,
+      "max" : 464.704,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "carbon_organic",
+      "min" : 10.15,
+      "max" : 10.15,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "carbon_total",
+      "min" : 11.27,
+      "max" : 11.27,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "copper",
+      "min" : 2.186,
+      "max" : 2.186,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "iron",
+      "min" : 66.247,
+      "max" : 66.247,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "magnesium",
+      "min" : 255.398,
+      "max" : 255.398,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "manganese",
+      "min" : 146.692,
+      "max" : 146.692,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "nitrogen_total",
+      "min" : 0.99,
+      "max" : 0.99,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "ph",
+      "min" : 5.798,
+      "max" : 5.798
+    },
+    {
+      "recordId" : 39,
+      "markerName" : "potassium",
+      "min" : 339.502,
+      "max" : 339.502,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "longitude",
+      "min" : 35.17618,
+      "max" : 35.17618
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "latitude",
+      "min" : -8.58839,
+      "max" : -8.58839
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "aluminium",
+      "min" : 1202.621,
+      "max" : 1202.621,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "calcium",
+      "min" : 157.377,
+      "max" : 157.377,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "carbon_organic",
+      "min" : 11.07,
+      "max" : 11.07,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "carbon_total",
+      "min" : 10.05,
+      "max" : 10.05,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "copper",
+      "min" : 2.393,
+      "max" : 2.393,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "iron",
+      "min" : 63.764,
+      "max" : 63.764,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "magnesium",
+      "min" : 82.295,
+      "max" : 82.295,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "manganese",
+      "min" : 55.941,
+      "max" : 55.941,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "nitrogen_total",
+      "min" : 0.62,
+      "max" : 0.62,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "ph",
+      "min" : 5.46,
+      "max" : 5.46
+    },
+    {
+      "recordId" : 40,
+      "markerName" : "potassium",
+      "min" : 107.967,
+      "max" : 107.967,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "longitude",
+      "min" : 35.16214,
+      "max" : 35.16214
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "latitude",
+      "min" : -8.58749,
+      "max" : -8.58749
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "aluminium",
+      "min" : 1449.677,
+      "max" : 1449.677,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "calcium",
+      "min" : 162.568,
+      "max" : 162.568,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "carbon_organic",
+      "min" : 14.91,
+      "max" : 14.91,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "carbon_total",
+      "min" : 13.79,
+      "max" : 13.79,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "copper",
+      "min" : 0.916,
+      "max" : 0.916,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "iron",
+      "min" : 51.273,
+      "max" : 51.273,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "magnesium",
+      "min" : 80.485,
+      "max" : 80.485,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "manganese",
+      "min" : 46.124,
+      "max" : 46.124,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "nitrogen_total",
+      "min" : 0.94,
+      "max" : 0.94,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "ph",
+      "min" : 5.155,
+      "max" : 5.155
+    },
+    {
+      "recordId" : 41,
+      "markerName" : "potassium",
+      "min" : 102.672,
+      "max" : 102.672,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "longitude",
+      "min" : 35.44734,
+      "max" : 35.44734
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "latitude",
+      "min" : -8.58748,
+      "max" : -8.58748
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "aluminium",
+      "min" : 1224.751,
+      "max" : 1224.751,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "calcium",
+      "min" : 775.187,
+      "max" : 775.187,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "carbon_organic",
+      "min" : 25.76,
+      "max" : 25.76,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "carbon_total",
+      "min" : 25.35,
+      "max" : 25.35,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "copper",
+      "min" : 0.945,
+      "max" : 0.945,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "iron",
+      "min" : 77.303,
+      "max" : 77.303,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "magnesium",
+      "min" : 106.583,
+      "max" : 106.583,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "manganese",
+      "min" : 70.109,
+      "max" : 70.109,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "nitrogen_total",
+      "min" : 1.49,
+      "max" : 1.49,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "ph",
+      "min" : 5.636,
+      "max" : 5.636
+    },
+    {
+      "recordId" : 42,
+      "markerName" : "potassium",
+      "min" : 139.407,
+      "max" : 139.407,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "longitude",
+      "min" : 35.4571,
+      "max" : 35.4571
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "latitude",
+      "min" : -8.58716,
+      "max" : -8.58716
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "aluminium",
+      "min" : 1342.962,
+      "max" : 1342.962,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "calcium",
+      "min" : 787.61,
+      "max" : 787.61,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "carbon_organic",
+      "min" : 31.09,
+      "max" : 31.09,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "carbon_total",
+      "min" : 33.0,
+      "max" : 33.0,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "copper",
+      "min" : 1.052,
+      "max" : 1.052,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "iron",
+      "min" : 81.045,
+      "max" : 81.045,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "magnesium",
+      "min" : 99.072,
+      "max" : 99.072,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "manganese",
+      "min" : 57.846,
+      "max" : 57.846,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "nitrogen_total",
+      "min" : 2.12,
+      "max" : 2.12,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "ph",
+      "min" : 5.255,
+      "max" : 5.255
+    },
+    {
+      "recordId" : 43,
+      "markerName" : "potassium",
+      "min" : 82.719,
+      "max" : 82.719,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "longitude",
+      "min" : 35.61065,
+      "max" : 35.61065
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "latitude",
+      "min" : -8.58683,
+      "max" : -8.58683
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "aluminium",
+      "min" : 1780.451,
+      "max" : 1780.451,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "calcium",
+      "min" : 458.971,
+      "max" : 458.971,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "carbon_organic",
+      "min" : 36.04,
+      "max" : 36.04,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "carbon_total",
+      "min" : 38.59,
+      "max" : 38.59,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "copper",
+      "min" : 1.485,
+      "max" : 1.485,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "iron",
+      "min" : 96.682,
+      "max" : 96.682,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "magnesium",
+      "min" : 102.179,
+      "max" : 102.179,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "manganese",
+      "min" : 12.919,
+      "max" : 12.919,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "nitrogen_total",
+      "min" : 2.88,
+      "max" : 2.88,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "ph",
+      "min" : 4.793,
+      "max" : 4.793
+    },
+    {
+      "recordId" : 44,
+      "markerName" : "potassium",
+      "min" : 93.8,
+      "max" : 93.8,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "longitude",
+      "min" : 35.60989,
+      "max" : 35.60989
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "latitude",
+      "min" : -8.58675,
+      "max" : -8.58675
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "aluminium",
+      "min" : 1894.801,
+      "max" : 1894.801,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "calcium",
+      "min" : 625.154,
+      "max" : 625.154,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "carbon_organic",
+      "min" : 42.98,
+      "max" : 42.98,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "carbon_total",
+      "min" : 45.36,
+      "max" : 45.36,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "copper",
+      "min" : 1.38,
+      "max" : 1.38,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "iron",
+      "min" : 81.892,
+      "max" : 81.892,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "magnesium",
+      "min" : 152.481,
+      "max" : 152.481,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "manganese",
+      "min" : 56.299,
+      "max" : 56.299,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "nitrogen_total",
+      "min" : 2.87,
+      "max" : 2.87,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "ph",
+      "min" : 5.038,
+      "max" : 5.038
+    },
+    {
+      "recordId" : 45,
+      "markerName" : "potassium",
+      "min" : 112.481,
+      "max" : 112.481,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "longitude",
+      "min" : 35.63458,
+      "max" : 35.63458
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "latitude",
+      "min" : -8.58673,
+      "max" : -8.58673
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "aluminium",
+      "min" : 1751.981,
+      "max" : 1751.981,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "calcium",
+      "min" : 725.135,
+      "max" : 725.135,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "carbon_organic",
+      "min" : 38.42,
+      "max" : 38.42,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "carbon_total",
+      "min" : 40.2,
+      "max" : 40.2,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "copper",
+      "min" : 1.201,
+      "max" : 1.201,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "iron",
+      "min" : 99.613,
+      "max" : 99.613,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "magnesium",
+      "min" : 115.977,
+      "max" : 115.977,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "manganese",
+      "min" : 52.837,
+      "max" : 52.837,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "nitrogen_total",
+      "min" : 2.79,
+      "max" : 2.79,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "ph",
+      "min" : 5.021,
+      "max" : 5.021
+    },
+    {
+      "recordId" : 46,
+      "markerName" : "potassium",
+      "min" : 102.023,
+      "max" : 102.023,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "longitude",
+      "min" : 35.63247,
+      "max" : 35.63247
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "latitude",
+      "min" : -8.58667,
+      "max" : -8.58667
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "aluminium",
+      "min" : 1091.63,
+      "max" : 1091.63,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "calcium",
+      "min" : 786.656,
+      "max" : 786.656,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "carbon_organic",
+      "min" : 26.86,
+      "max" : 26.86,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "carbon_total",
+      "min" : 27.3,
+      "max" : 27.3,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "copper",
+      "min" : 3.461,
+      "max" : 3.461,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "iron",
+      "min" : 133.754,
+      "max" : 133.754,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "magnesium",
+      "min" : 252.938,
+      "max" : 252.938,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "manganese",
+      "min" : 255.371,
+      "max" : 255.371,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "nitrogen_total",
+      "min" : 1.86,
+      "max" : 1.86,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "ph",
+      "min" : 5.406,
+      "max" : 5.406
+    },
+    {
+      "recordId" : 47,
+      "markerName" : "potassium",
+      "min" : 197.541,
+      "max" : 197.541,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "longitude",
+      "min" : 35.45063,
+      "max" : 35.45063
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "latitude",
+      "min" : -8.58627,
+      "max" : -8.58627
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "aluminium",
+      "min" : 1635.931,
+      "max" : 1635.931,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "calcium",
+      "min" : 651.585,
+      "max" : 651.585,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "carbon_organic",
+      "min" : 24.99,
+      "max" : 24.99,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "carbon_total",
+      "min" : 27.1,
+      "max" : 27.1,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "copper",
+      "min" : 0.768,
+      "max" : 0.768,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "iron",
+      "min" : 78.126,
+      "max" : 78.126,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "magnesium",
+      "min" : 148.459,
+      "max" : 148.459,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "manganese",
+      "min" : 15.131,
+      "max" : 15.131,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "nitrogen_total",
+      "min" : 1.69,
+      "max" : 1.69,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "ph",
+      "min" : 5.167,
+      "max" : 5.167
+    },
+    {
+      "recordId" : 48,
+      "markerName" : "potassium",
+      "min" : 100.494,
+      "max" : 100.494,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "longitude",
+      "min" : 35.15763,
+      "max" : 35.15763
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "latitude",
+      "min" : -8.58567,
+      "max" : -8.58567
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "horizon_low",
+      "min" : 50.0,
+      "max" : 50.0
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "horizon_up",
+      "min" : 20.0,
+      "max" : 20.0
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "aluminium",
+      "min" : 1383.5,
+      "max" : 1383.5,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "calcium",
+      "min" : 106.475,
+      "max" : 106.475,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "carbon_organic",
+      "min" : 10.55,
+      "max" : 10.55,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "carbon_total",
+      "min" : 11.25,
+      "max" : 11.25,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "copper",
+      "min" : 1.13,
+      "max" : 1.13,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "iron",
+      "min" : 62.741,
+      "max" : 62.741,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "magnesium",
+      "min" : 86.715,
+      "max" : 86.715,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "manganese",
+      "min" : 41.51,
+      "max" : 41.51,
+      "technologyName" : "Mehlich3"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "nitrogen_total",
+      "min" : 0.63,
+      "max" : 0.63,
+      "technologyName" : "combustion"
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "ph",
+      "min" : 5.327,
+      "max" : 5.327
+    },
+    {
+      "recordId" : 49,
+      "markerName" : "potassium",
+      "min" : 75.195,
+      "max" : 75.195,
+      "technologyName" : "Mehlich3"
+    }
+  ]
+}

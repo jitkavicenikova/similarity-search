@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  # Soil App
+  soil-app:
+    build:
+      context: ./
+    ports:
+      - "8081:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=soil  # Set active profile to 'soil'
+      - SPRING_DATA_REDIS_HOST=soil-redis
+      - SPRING_DATA_REDIS_PORT=6379
+      - SPRING_DATA_REDIS_PASSWORD=1234
+    depends_on:
+      - soil-redis
+
+  # Diabetes App
+  diabetes-app:
+    build:
+      context: ./
+    ports:
+      - "8082:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=diabetes  # Set active profile to 'diabetes'
+      - SPRING_DATA_REDIS_HOST=diabetes-redis
+      - SPRING_DATA_REDIS_PORT=6379
+      - SPRING_DATA_REDIS_PASSWORD=5678
+    depends_on:
+      - diabetes-redis
+
+  # Soil Redis
+  soil-redis:
+    image: redis/redis-stack:latest  # Redis image
+    container_name: soil-redis
+    ports:
+      - "6382:6379"
+    command: redis-server --requirepass 1234
+    restart: always
+
+  # Diabetes Redis
+  diabetes-redis:
+    image: redis/redis-stack:latest  # Redis image
+    container_name: diabetes-redis
+    ports:
+      - "6383:6379"
+    command: redis-server --requirepass 5678
+    restart: always
+
+  redis-insight:
+    image: redis/redisinsight:latest
+    restart: always
+    ports:
+      - "5540:5540"
+    volumes:
+      - redis-insight:/data
+
+volumes:
+  redis-insight:
+
+
